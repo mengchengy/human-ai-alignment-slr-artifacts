@@ -1,0 +1,680 @@
+{
+  "schema_version": 1,
+  "description": "Compact source rows for P320-P322 used by build_final_205.mjs. Extracted from the authoritative final thesis S1/S2 workbooks.",
+  "cluster_ids": [
+    "P320",
+    "P321",
+    "P322"
+  ],
+  "s1_rows_A_to_L": [
+    [
+      "P320",
+      "P320",
+      "Marconi et al. (2026)",
+      "Marconi, Luca and Brasca, Federica and Ferri, Paolo Maria",
+      2026,
+      "Evaluating Large Language Models as Academic Tutors: A Human-AI Collaboration Approach for Structured Literature Review",
+      null,
+      "10.1007/978-3-032-13187-4_14",
+      "DBLP database search",
+      "Empirical",
+      "B",
+      "Springer version of record and Crossref publisher deposit checked 2026-11-15; canonical year 2026, HCII event year 2025 retained in version note."
+    ],
+    [
+      "P321",
+      "P321",
+      "Capaccioli et al. (2026)",
+      "Capaccioli, Andrea and Cavagnetto, Nicola and Volpato, Emma and Napoletano, Linda",
+      2026,
+      "Virtual Reality and AI for Training in Manufacturing: Advancing Human-AI Teaming and Collaboration",
+      null,
+      "10.1007/978-3-032-12764-8_1",
+      "DBLP database search",
+      "Empirical",
+      "D",
+      "Springer version of record and Crossref publisher deposit checked 2026-11-15; canonical year 2026, HCII event year 2025 retained in version note."
+    ],
+    [
+      "P322",
+      "P322",
+      "Janhunen et al. (2024)",
+      "Janhunen, Essi and Toivikko, Tuuli and Blomqvist, Kirsimarja and Siemon, Dominik",
+      2024,
+      "Trust in Digital Human-AI Team Collaboration: A Systematic Review",
+      null,
+      null,
+      "DBLP database search",
+      "Secondary synthesis with conceptual output",
+      "D",
+      "Official AISeL AMCIS 2024 publisher version/record and local checked full text; exact-title Google Scholar verification recorded 2026-11-14."
+    ]
+  ],
+  "s2_cluster_codes_A_to_T": [
+    [
+      "P320",
+      "P320",
+      "Marconi et al. (2026)",
+      "Evaluating Large Language Models as Academic Tutors: A Human-AI Collaboration Approach for Structured Literature Review",
+      "10.1007/978-3-032-13187-4_14",
+      "DBLP database search",
+      "EMPIRICAL_PRIMARY",
+      "Empirical primary research",
+      "RELATED_OPERATIONALIZATION",
+      "Related operationalization",
+      "B_COMPONENT_EVALUATED_MEASURE",
+      "B — evaluated component or related fit measure",
+      "COMPONENT_MEASURE",
+      "Component measure",
+      "APPLIED_OR_EVALUATED_STAGE",
+      "Applied or evaluated",
+      "FUNCTIONING_AI_TEAMMATE",
+      "Functioning AI teammate",
+      "FORMALLY_PUBLISHED",
+      "NO_SUCCESSOR_SEARCH_REQUIRED_FOR_RECORDED_FORMAL_VERSION"
+    ],
+    [
+      "P321",
+      "P321",
+      "Capaccioli et al. (2026)",
+      "Virtual Reality and AI for Training in Manufacturing: Advancing Human-AI Teaming and Collaboration",
+      "10.1007/978-3-032-12764-8_1",
+      "DBLP database search",
+      "EMPIRICAL_PRIMARY",
+      "Empirical primary research",
+      "RELATED_OPERATIONALIZATION",
+      "Related operationalization",
+      "D_CONCEPTUAL_PROPOSED_OR_SECONDARY",
+      "D — conceptual, proposed, or secondary support",
+      "TRANSFERABLE_DESIGN_METHOD",
+      "Transferable design method",
+      "PROPOSED_OR_SYNTHESIZED_STAGE",
+      "Proposed or synthesized",
+      "NO_FUNCTIONING_AI_SYSTEM",
+      "No functioning AI system",
+      "FORMALLY_PUBLISHED",
+      "NO_SUCCESSOR_SEARCH_REQUIRED_FOR_RECORDED_FORMAL_VERSION"
+    ],
+    [
+      "P322",
+      "P322",
+      "Janhunen et al. (2024)",
+      "Trust in Digital Human-AI Team Collaboration: A Systematic Review",
+      null,
+      "DBLP database search",
+      "SECONDARY_SYNTHESIS_WITH_CONCEPTUAL_OUTPUT",
+      "Secondary synthesis with conceptual output",
+      "RELATED_OPERATIONALIZATION",
+      "Related operationalization",
+      "D_CONCEPTUAL_PROPOSED_OR_SECONDARY",
+      "D — conceptual, proposed, or secondary support",
+      "CONCEPTUAL_NO_DIRECT_MEASURE",
+      "Conceptual, no direct measure",
+      "PROPOSED_OR_SYNTHESIZED_STAGE",
+      "Proposed or synthesized",
+      "NO_FUNCTIONING_AI_SYSTEM",
+      "No functioning AI system",
+      "FORMALLY_PUBLISHED",
+      "NO_SUCCESSOR_SEARCH_REQUIRED_FOR_RECORDED_FORMAL_VERSION"
+    ]
+  ],
+  "s2_evidence_anchors_A_to_F": [
+    [
+      "P320",
+      "PDF p. 5 / printed p. 201 and PDF p. 7 / printed p. 203.",
+      "The AI initiates and guides the analysis, elicits individual contributions, moderates discussion, synthesizes responses, and enriches the output under the prescribed tutor protocol.",
+      "PDF pp. 7-11 / printed pp. 203-207.",
+      "Observed behavior is compared with the prescribed tutor role and workflow through protocol compliance, adaptability, feedback quality, moderation, personalization, critical depth, and documented deviations.",
+      "The evidence comes from four students in one course, one group, and three constrained commercial systems. Ratings were consensus judgments rather than independently validated scale scores; no objective learning-outcome effect or general Alignment instrument was established."
+    ],
+    [
+      "P321",
+      "PDF p. 6 / printed p. 8; PDF p. 7 / printed p. 9; PDF p. 9 / printed p. 11.",
+      "The proposed assistant can autonomously initiate interaction after errors, inactivity, elapsed time, or performance signals and shift roles across training phases; this behavior is specified but not implemented.",
+      "PDF pp. 2-4 and 6-10 / printed pp. 4-6 and 8-12.",
+      "The framework maps role, initiative, task allocation, control, transparency, explanation, modality, and adaptive support to trainee expertise, task state, performance, learning goals, expectations, and needs.",
+      "The company observation and interview support requirements and design, not validation of the proposed assistant or framework. No completed AI-VR implementation, trainee study, usability result, human-factor result, or longitudinal trust evidence is reported; all planned metrics must remain prospective."
+    ],
+    [
+      "P322",
+      "PDF p. 3 / printed p. 2 and PDF pp. 6-7 / printed pp. 5-6.",
+      "At review level, systems range to autonomous AI acting independently and AI as teammate, facilitator, mediator, or leader in decision-making, delegation, and conflict-resolution roles.",
+      "PDF pp. 5-7 / printed pp. 4-6.",
+      "The synthesis connects role clarity, task allocation, AI-task fit, command order, expertise, expectations, autonomy, control, delegation, capability, transparency, and trust dynamics.",
+      "Trust is not treated as Alignment by itself. Eligibility and coding are limited to the review's explicit role, task, autonomy, capability, expectation, and control relations. The 22 reviewed studies do not all necessarily satisfy I3, must not be added as clusters through this report, and the proposed framework remains unvalidated."
+    ]
+  ],
+  "s2_publication_status_A_to_Y": [
+    [
+      "P320",
+      "P320",
+      "Marconi et al. (2026)",
+      "Marconi, Luca and Brasca, Federica and Ferri, Paolo Maria",
+      2026,
+      "Evaluating Large Language Models as Academic Tutors: A Human-AI Collaboration Approach for Structured Literature Review",
+      "10.1007/978-3-032-13187-4_14",
+      "DBLP database search",
+      "FORMALLY_PUBLISHED",
+      "NOT_SEPARATELY_VERIFIED",
+      "HIGH_BIBLIOGRAPHIC_IDENTITY",
+      "book-chapter",
+      "Springer Nature Switzerland",
+      "HCI International 2025 – Late Breaking Papers",
+      "2026-01-02",
+      16346,
+      null,
+      "197-213",
+      "https://link.springer.com/chapter/10.1007/978-3-032-13187-4_14",
+      "Springer version of record/PDF and Crossref publisher deposit https://api.crossref.org/works/10.1007%2F978-3-032-13187-4_14 checked 2026-11-15",
+      "2026-11-15",
+      null,
+      "NO_SUCCESSOR_SEARCH_REQUIRED_FOR_RECORDED_FORMAL_VERSION",
+      0,
+      "First online 2 January 2026; LNCS 16346. Canonical bibliographic year is 2026. The HCII conference event occurred in 2025, which explains the DBLP key/year discrepancy and is retained as an event-year note rather than citation year."
+    ],
+    [
+      "P321",
+      "P321",
+      "Capaccioli et al. (2026)",
+      "Capaccioli, Andrea and Cavagnetto, Nicola and Volpato, Emma and Napoletano, Linda",
+      2026,
+      "Virtual Reality and AI for Training in Manufacturing: Advancing Human-AI Teaming and Collaboration",
+      "10.1007/978-3-032-12764-8_1",
+      "DBLP database search",
+      "FORMALLY_PUBLISHED",
+      "NOT_SEPARATELY_VERIFIED",
+      "HIGH_BIBLIOGRAPHIC_IDENTITY",
+      "book-chapter",
+      "Springer Nature Switzerland",
+      "HCI International 2025 – Late Breaking Posters",
+      "2026-01-02",
+      2771,
+      null,
+      "3-13",
+      "https://link.springer.com/chapter/10.1007/978-3-032-12764-8_1",
+      "Springer version of record/PDF and Crossref publisher deposit https://api.crossref.org/works/10.1007%2F978-3-032-12764-8_1 checked 2026-11-15",
+      "2026-11-15",
+      null,
+      "NO_SUCCESSOR_SEARCH_REQUIRED_FOR_RECORDED_FORMAL_VERSION",
+      0,
+      "First online 2 January 2026; CCIS 2771. Canonical bibliographic year is 2026. The HCII conference event occurred in 2025, which explains the DBLP key/year discrepancy and is retained as an event-year note rather than citation year."
+    ],
+    [
+      "P322",
+      "P322",
+      "Janhunen et al. (2024)",
+      "Janhunen, Essi and Toivikko, Tuuli and Blomqvist, Kirsimarja and Siemon, Dominik",
+      2024,
+      "Trust in Digital Human-AI Team Collaboration: A Systematic Review",
+      null,
+      "DBLP database search",
+      "FORMALLY_PUBLISHED",
+      "NOT_SEPARATELY_VERIFIED",
+      "HIGH_OFFICIAL_VENUE_AND_REPOSITORY_IDENTITY",
+      "proceedings-article",
+      "Association for Information Systems",
+      "AMCIS 2024 Proceedings",
+      "2024-08-16",
+      null,
+      null,
+      3,
+      "https://aisel.aisnet.org/amcis2024/cnow/cnow/3/",
+      "Official AISeL AMCIS publisher record/version and local checked full text; exact-title Google Scholar verification recorded in amendment audit",
+      "2026-11-15",
+      null,
+      "NO_SUCCESSOR_SEARCH_REQUIRED_FOR_RECORDED_FORMAL_VERSION",
+      0,
+      "Completed Research Full Paper; AISeL paper number 1229 and proceedings item 3. No item-level DOI verified. Only this review's synthesis is coded; underlying studies are not double-counted."
+    ]
+  ],
+  "s2_multilabel_rows_A_to_E": [
+    [
+      "P320",
+      "rq1Families",
+      "RQ1 family",
+      "ROLES_RESPONSIBILITIES_ALLOCATION",
+      "Roles, responsibilities, and task allocation"
+    ],
+    [
+      "P320",
+      "rq1Families",
+      "RQ1 family",
+      "AUTONOMY_CONTROL_INITIATIVE",
+      "Autonomy, control, and initiative"
+    ],
+    [
+      "P320",
+      "rq1Families",
+      "RQ1 family",
+      "WORKFLOW_CONSTRAINTS_OUTPUTS",
+      "Workflows, constraints, and outputs"
+    ],
+    [
+      "P320",
+      "rq1Families",
+      "RQ1 family",
+      "INFORMATION_COMMUNICATION",
+      "Information and communication"
+    ],
+    [
+      "P320",
+      "rq1Families",
+      "RQ1 family",
+      "CAPABILITY_RELIANCE_CALIBRATION",
+      "Capability and reliance calibration"
+    ],
+    [
+      "P320",
+      "rq1Families",
+      "RQ1 family",
+      "GOALS_VALUES_PREFERENCES",
+      "Goals, values, and preferences"
+    ],
+    [
+      "P320",
+      "rq1Families",
+      "RQ1 family",
+      "SOCIO_EMOTIONAL_EXPECTATIONS",
+      "Socio-emotional expectations"
+    ],
+    [
+      "P320",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "BEHAVIORAL_PROCESS",
+      "Behavioral or process evidence"
+    ],
+    [
+      "P320",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "BENCHMARK_RUBRIC_TAXONOMY",
+      "Benchmark, rubric, or taxonomy"
+    ],
+    [
+      "P320",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "QUALITATIVE_ELICITATION_OR_ASSESSMENT",
+      "Qualitative elicitation or assessment"
+    ],
+    [
+      "P320",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "SELF_REPORT_SCALE",
+      "Self-report scale"
+    ],
+    [
+      "P320",
+      "contexts",
+      "RQ3 application context",
+      "EDUCATION_LEARNING",
+      "Education or learning"
+    ],
+    [
+      "P320",
+      "contexts",
+      "RQ3 application context",
+      "SCIENTIFIC_RESEARCH",
+      "Scientific research"
+    ],
+    [
+      "P320",
+      "stages",
+      "RQ3 teamwork stage",
+      "PRE_TASK",
+      "Pre-task"
+    ],
+    [
+      "P320",
+      "stages",
+      "RQ3 teamwork stage",
+      "RUNTIME",
+      "Runtime"
+    ],
+    [
+      "P320",
+      "stages",
+      "RQ3 teamwork stage",
+      "POST_TASK",
+      "Post-task"
+    ],
+    [
+      "P320",
+      "validationDesign",
+      "RQ3 validation design",
+      "CONTROLLED_HUMAN_STUDY",
+      "Controlled human study"
+    ],
+    [
+      "P320",
+      "validationDesign",
+      "RQ3 validation design",
+      "SYSTEM_EVALUATION",
+      "System evaluation"
+    ],
+    [
+      "P320",
+      "validationDesign",
+      "RQ3 validation design",
+      "QUALITATIVE_EMPIRICAL_STUDY",
+      "Qualitative empirical study"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "ROLES_RESPONSIBILITIES_ALLOCATION",
+      "Roles, responsibilities, and task allocation"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "AUTONOMY_CONTROL_INITIATIVE",
+      "Autonomy, control, and initiative"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "WORKFLOW_CONSTRAINTS_OUTPUTS",
+      "Workflows, constraints, and outputs"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "INFORMATION_COMMUNICATION",
+      "Information and communication"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "CAPABILITY_RELIANCE_CALIBRATION",
+      "Capability and reliance calibration"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "GOALS_VALUES_PREFERENCES",
+      "Goals, values, and preferences"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "KNOWLEDGE_COMMON_GROUND_MENTAL_MODELS",
+      "Knowledge, common ground, and mental models"
+    ],
+    [
+      "P321",
+      "rq1Families",
+      "RQ1 family",
+      "SOCIO_EMOTIONAL_EXPECTATIONS",
+      "Socio-emotional expectations"
+    ],
+    [
+      "P321",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "BENCHMARK_RUBRIC_TAXONOMY",
+      "Benchmark, rubric, or taxonomy"
+    ],
+    [
+      "P321",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "CONCEPTUAL_FRAMEWORK_OR_DESIGN_GUIDANCE",
+      "Conceptual framework or design guidance"
+    ],
+    [
+      "P321",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "DESIGN_TIME_ASSESSMENT",
+      "Design-time assessment"
+    ],
+    [
+      "P321",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "QUALITATIVE_ELICITATION_OR_ASSESSMENT",
+      "Qualitative elicitation or assessment"
+    ],
+    [
+      "P321",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "SYSTEM_OR_RUNTIME_SUPPORT",
+      "System or runtime support"
+    ],
+    [
+      "P321",
+      "contexts",
+      "RQ3 application context",
+      "INDUSTRIAL_MANUFACTURING",
+      "Industrial or manufacturing"
+    ],
+    [
+      "P321",
+      "contexts",
+      "RQ3 application context",
+      "EDUCATION_LEARNING",
+      "Education or learning"
+    ],
+    [
+      "P321",
+      "contexts",
+      "RQ3 application context",
+      "IMMERSIVE_XR_MEDIA",
+      "Immersive XR or media"
+    ],
+    [
+      "P321",
+      "stages",
+      "RQ3 teamwork stage",
+      "DESIGN_TIME",
+      "Design-time"
+    ],
+    [
+      "P321",
+      "stages",
+      "RQ3 teamwork stage",
+      "PRE_TASK",
+      "Pre-task"
+    ],
+    [
+      "P321",
+      "stages",
+      "RQ3 teamwork stage",
+      "RUNTIME",
+      "Runtime"
+    ],
+    [
+      "P321",
+      "stages",
+      "RQ3 teamwork stage",
+      "TRANSITION",
+      "Transition or handoff"
+    ],
+    [
+      "P321",
+      "stages",
+      "RQ3 teamwork stage",
+      "POST_TASK",
+      "Post-task"
+    ],
+    [
+      "P321",
+      "validationDesign",
+      "RQ3 validation design",
+      "CONCEPTUAL_OR_PROPOSAL",
+      "Conceptual or proposal"
+    ],
+    [
+      "P321",
+      "validationDesign",
+      "RQ3 validation design",
+      "QUALITATIVE_EMPIRICAL_STUDY",
+      "Qualitative empirical study"
+    ],
+    [
+      "P321",
+      "validationDesign",
+      "RQ3 validation design",
+      "CASE_OR_RUBRIC_APPLICATION",
+      "Case or rubric application"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "ROLES_RESPONSIBILITIES_ALLOCATION",
+      "Roles, responsibilities, and task allocation"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "AUTONOMY_CONTROL_INITIATIVE",
+      "Autonomy, control, and initiative"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "WORKFLOW_CONSTRAINTS_OUTPUTS",
+      "Workflows, constraints, and outputs"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "INFORMATION_COMMUNICATION",
+      "Information and communication"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "CAPABILITY_RELIANCE_CALIBRATION",
+      "Capability and reliance calibration"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "GOALS_VALUES_PREFERENCES",
+      "Goals, values, and preferences"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "KNOWLEDGE_COMMON_GROUND_MENTAL_MODELS",
+      "Knowledge, common ground, and mental models"
+    ],
+    [
+      "P322",
+      "rq1Families",
+      "RQ1 family",
+      "SOCIO_EMOTIONAL_EXPECTATIONS",
+      "Socio-emotional expectations"
+    ],
+    [
+      "P322",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "OUTCOME_OR_PROXY_MEASURE",
+      "Outcome or proxy measure"
+    ],
+    [
+      "P322",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "BENCHMARK_RUBRIC_TAXONOMY",
+      "Benchmark, rubric, or taxonomy"
+    ],
+    [
+      "P322",
+      "rq2Canonical",
+      "RQ2 assessment form",
+      "CONCEPTUAL_FRAMEWORK_OR_DESIGN_GUIDANCE",
+      "Conceptual framework or design guidance"
+    ],
+    [
+      "P322",
+      "contexts",
+      "RQ3 application context",
+      "ORGANIZATIONAL_KNOWLEDGE_WORK",
+      "Organizational knowledge work"
+    ],
+    [
+      "P322",
+      "contexts",
+      "RQ3 application context",
+      "DOMAIN_GENERAL_OR_CROSS_DOMAIN",
+      "Domain-general or cross-domain"
+    ],
+    [
+      "P322",
+      "stages",
+      "RQ3 teamwork stage",
+      "DESIGN_TIME",
+      "Design-time"
+    ],
+    [
+      "P322",
+      "stages",
+      "RQ3 teamwork stage",
+      "PRE_TASK",
+      "Pre-task"
+    ],
+    [
+      "P322",
+      "stages",
+      "RQ3 teamwork stage",
+      "RUNTIME",
+      "Runtime"
+    ],
+    [
+      "P322",
+      "stages",
+      "RQ3 teamwork stage",
+      "TRANSITION",
+      "Transition or handoff"
+    ],
+    [
+      "P322",
+      "stages",
+      "RQ3 teamwork stage",
+      "POST_TASK",
+      "Post-task"
+    ],
+    [
+      "P322",
+      "validationDesign",
+      "RQ3 validation design",
+      "CONCEPTUAL_OR_PROPOSAL",
+      "Conceptual or proposal"
+    ],
+    [
+      "P322",
+      "validationDesign",
+      "RQ3 validation design",
+      "SECONDARY_SYNTHESIS",
+      "Secondary synthesis"
+    ],
+    [
+      "P322",
+      "validationDesign",
+      "RQ3 validation design",
+      "CORPUS_OR_TAXONOMY_VALIDATION",
+      "Corpus or taxonomy validation"
+    ]
+  ]
+}
